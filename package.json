@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "food-app",
   "version": "1.0.0",
   "description": "\"Namaste React by Akshay saini\"",
+=======
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> 962d76732412fcd2bb02c02a1b18c4a884eb125a
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -9,6 +15,7 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/ErojiAruna/Food-App.git"
   },
   "author": "Aruna",
@@ -17,6 +24,17 @@
     "url": "https://github.com/ErojiAruna/Food-App/issues"
   },
   "homepage": "https://github.com/ErojiAruna/Food-App#readme",
+=======
+    "url": "git+https://github.com/ErojiAruna/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Aruna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErojiAruna/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ErojiAruna/namaste-react#readme",
+>>>>>>> 962d76732412fcd2bb02c02a1b18c4a884eb125a
   "devDependencies": {
     "parcel": "^2.12.0",
     "process": "^0.11.10"
@@ -24,5 +42,12 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+<<<<<<< HEAD
   }
+=======
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+>>>>>>> 962d76732412fcd2bb02c02a1b18c4a884eb125a
 }
